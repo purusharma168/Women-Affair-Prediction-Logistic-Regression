@@ -1,5 +1,5 @@
 # Women-Affair-Prediction
-## Deployement link:
+## Deployement link:https://women-affair-lr-app.herokuapp.com/
 
 I decided to treat this as a classification problem by creating a new
 binary variable affair (did the woman have at least one affair?) and trying to
